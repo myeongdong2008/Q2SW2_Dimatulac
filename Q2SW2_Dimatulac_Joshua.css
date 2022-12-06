@@ -25,6 +25,13 @@ h1{
 	color: #000000;
     letter-spacing: 12px;
 }
+
+h3{
+    font-family: Bebas Neue;
+    color: #000000;
+    letter-spacing: 12px;
+}
+
 ul{
    font-family: Arial;
    color: black;

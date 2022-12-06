@@ -35,6 +35,10 @@ h3{
 ul{
    font-family: Arial;
    color: black;
+   background-color: #F5F5DC;
+   border-radius: 50px;
+   border-style: ridge;
+   border-width: 7px;
 }
 
 img{
@@ -43,6 +47,8 @@ img{
     padding: 15px;
     border-radius: 50px;
     opacity: .75;
+    border-style: dotted;
+    border-color: #964B00;
 }
 
 img:hover{
